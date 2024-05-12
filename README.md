@@ -1,4 +1,8 @@
 ### Hi there 👋
+<script src="stars.js"></script>
+
+<canvas id="starfield" width="200" height="100"></canvas>
+
 
 <!--
 **yakultproducer/yakultproducer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
